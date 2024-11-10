@@ -37,7 +37,7 @@ This is a simple blogging platform API built with Node.js, Express, and MongoDB.
 
     1. Clone the Repository
 
-    --git clone <repository-url>
+    --git clone <https://github.com/Shiakh0112/Backend-evolution-blogging-platform-api->
 
 
     2. Navigate to the Project Directory
